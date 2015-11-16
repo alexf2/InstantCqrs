@@ -1,0 +1,11 @@
+git clone http://AlexeyF@stashosl/scm/~alexeyf/alexeyfresearch.git
+
+cd existing-project
+git init
+git add --all
+git commit -m "Initial Commit"
+git remote add origin http://AlexeyF@stashosl/scm/~alexeyf/alexeyfresearch.git
+git push origin master
+
+URL:
+	http://alexeyf:8081/ClientPagerProto/DemoList/CatList
