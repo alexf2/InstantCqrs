@@ -1,4 +1,4 @@
-git clone http://AlexeyF@stashosl/scm/~alexeyf/alexeyfresearch.git
+git clone https://github.com/alexf2/InstantCqrs.git
 
 cd existing-project
 git init
